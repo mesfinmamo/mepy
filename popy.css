@@ -1,0 +1,30 @@
+{
+
+	margin: 30px;
+	padding: 20px;
+}
+
+.color-example h3{
+
+	text-transform:uppercase;
+
+}
+.green{
+	background-color:green;
+}
+.yellow{
+	background-color:yellow;
+
+}
+.red{
+     background-color:red;
+ }
+
+ .black{
+ 	background-color:black;
+
+ }
+ .blue{
+    background-color:blue;
+
+ }
